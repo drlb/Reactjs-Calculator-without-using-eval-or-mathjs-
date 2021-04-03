@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Calculator/>
       <br/>
-      <h5 className="credits">Created By drlb & Maor</h5>
+      <h5 className="credits">Created By <a href="https://github.com/drlb/">drlb</a> &<a href="https://github.com/maor9505/">Maor9505</a></h5>
     </div>
   );
 }
